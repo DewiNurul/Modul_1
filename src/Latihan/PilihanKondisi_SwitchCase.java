@@ -25,6 +25,7 @@ public class PilihanKondisi_SwitchCase {
                 break;
             case 3:
                 System.out.println("Tiga");
+                
         }
     }
 }

@@ -24,9 +24,8 @@ public class LuasBalok {
         System.out.println("==========================");
         System.out.println("Luas Permukaan Balok = " + ((2 * p * l) + (2 * p * t) + (2 * l * t)));
         System.out.println("==========================");
-        System.out.println("menghitung volume balok");
-        volume=p*l*t;
-        System.out.println("volume balok = "+volume);
 
-    }
 }
+}
+
+

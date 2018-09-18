@@ -27,6 +27,7 @@ public class KondisiIF {
         }
         if (nilai > 100){
             System.out.print("Nilai melebihi batas");
+            
         }
     }
 }

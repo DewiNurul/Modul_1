@@ -25,6 +25,7 @@ public class PernyataanWhile {
         }
         System.out.print("Total jumkah " + (a - 1) + " bilangan :");
         System.out.println(total);
+        
     }
 
 }

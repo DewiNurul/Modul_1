@@ -20,3 +20,4 @@ public class Variabel {
         System.out.println("nilai_web = " + nilai_web);
     }
 }
+

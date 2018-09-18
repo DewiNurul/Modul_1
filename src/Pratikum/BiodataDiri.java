@@ -33,5 +33,6 @@ public class BiodataDiri {
         System.out.print("Motto Hidup :");
         mottoHidup = masukan.next();
         
+        
     }
 }

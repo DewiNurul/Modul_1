@@ -23,6 +23,7 @@ public class Counter {
         }
         System.out.println("Total jumlahnya adalah :" + hasil);
 
+        
     }
 
 }
